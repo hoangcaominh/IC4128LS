@@ -108,7 +108,7 @@ namespace IC4128LS
             }
             else
             {
-                // currupted
+                // corrupted
                 lang = "en";
                 File.WriteAllText("lang.txt", lang);
             }
