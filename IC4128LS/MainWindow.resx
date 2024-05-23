@@ -117,134 +117,818 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="ValueRoute.TabIndex" type="System.Int32, mscorlib">
-    <value>10</value>
-  </data>
-  <data name="&gt;&gt;LabelSilver.Name" xml:space="preserve">
-    <value>LabelSilver</value>
-  </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="ValueSilver.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom, Left, Right</value>
+  <data name="LabelNotFound.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left, Right</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="LabelNotFound.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="LabelNotFound.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 383</value>
+  </data>
+  <data name="LabelNotFound.Size" type="System.Drawing.Size, System.Drawing">
+    <value>242, 18</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="LabelNotFound.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
   </data>
   <data name="LabelNotFound.Text" xml:space="preserve">
     <value>th128.exe Not Found</value>
   </data>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="ValueBronze.Location" type="System.Drawing.Point, System.Drawing">
-    <value>131, 273</value>
+  <data name="LabelNotFound.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="LabelNotFound.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;LabelNotFound.Name" xml:space="preserve">
+    <value>LabelNotFound</value>
+  </data>
+  <data name="&gt;&gt;LabelNotFound.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LabelNotFound.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;LabelNotFound.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="FindButton.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left, Right</value>
+  </data>
+  <data name="FindButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 404</value>
+  </data>
+  <data name="FindButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>242, 23</value>
+  </data>
+  <data name="FindButton.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
   </data>
   <data name="FindButton.Text" xml:space="preserve">
     <value>Find th128.exe</value>
   </data>
-  <data name="ValueGold.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleRight</value>
+  <data name="&gt;&gt;FindButton.Name" xml:space="preserve">
+    <value>FindButton</value>
   </data>
-  <data name="LabelBomb.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 20.25pt</value>
+  <data name="&gt;&gt;FindButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;FindButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;FindButton.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="LabelFound.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left, Right</value>
   </data>
   <data name="LabelFound.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 9pt</value>
   </data>
-  <data name="LabelDiff.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
+  <data name="LabelFound.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
   </data>
-  <data name="&gt;&gt;LabelISCORE.Parent" xml:space="preserve">
-    <value>panel1</value>
+  <data name="LabelFound.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 383</value>
   </data>
-  <data name="ValueGold.TabIndex" type="System.Int32, mscorlib">
-    <value>13</value>
+  <data name="LabelFound.Size" type="System.Drawing.Size, System.Drawing">
+    <value>242, 18</value>
   </data>
-  <data name="ValueSilver.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 20.25pt</value>
+  <data name="LabelFound.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
   </data>
-  <data name="ValueBronze.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleRight</value>
+  <data name="LabelFound.Text" xml:space="preserve">
+    <value>th128.exe Found</value>
   </data>
-  <data name="ValueSilver.TabIndex" type="System.Int32, mscorlib">
-    <value>14</value>
-  </data>
-  <data name="&gt;&gt;ValueRoute.Name" xml:space="preserve">
-    <value>ValueRoute</value>
-  </data>
-  <data name="&gt;&gt;ValueSilver.Name" xml:space="preserve">
-    <value>ValueSilver</value>
-  </data>
-  <data name="LabelRoute.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 20.25pt</value>
-  </data>
-  <data name="ValueBomb.Size" type="System.Drawing.Size, System.Drawing">
-    <value>108, 45</value>
-  </data>
-  <data name="LabelNotFound.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+  <data name="LabelFound.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
   </data>
   <data name="LabelFound.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
   </data>
-  <data name="ValueBomb.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleRight</value>
+  <data name="&gt;&gt;LabelFound.Name" xml:space="preserve">
+    <value>LabelFound</value>
   </data>
-  <data name="&gt;&gt;ValueDiff.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;ValueISCORE.Type" xml:space="preserve">
+  <data name="&gt;&gt;LabelFound.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="panel1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom, Left, Right</value>
+  <data name="&gt;&gt;LabelFound.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
-  <data name="FindButton.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
+  <data name="&gt;&gt;LabelFound.ZOrder" xml:space="preserve">
+    <value>1</value>
   </data>
-  <data name="ValueBronze.Font" type="System.Drawing.Font, System.Drawing">
+  <metadata name="mainWorker.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="LabelDiff.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="LabelDiff.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 20.25pt</value>
   </data>
-  <data name="LabelGold.Text" xml:space="preserve">
-    <value>Gold</value>
+  <data name="LabelDiff.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
   </data>
-  <data name="$this.Text" xml:space="preserve">
-    <value>IC4128LS</value>
+  <data name="LabelDiff.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1, 1</value>
   </data>
-  <data name="&gt;&gt;ValueBronze.Parent" xml:space="preserve">
-    <value>panel1</value>
+  <data name="LabelDiff.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="LabelDiff.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="LabelDiff.Size" type="System.Drawing.Size, System.Drawing">
+    <value>131, 46</value>
+  </data>
+  <data name="LabelDiff.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
   </data>
   <data name="LabelDiff.Text" xml:space="preserve">
     <value>Difficulty</value>
   </data>
-  <data name="&gt;&gt;FindButton.Parent" xml:space="preserve">
-    <value>$this</value>
+  <data name="LabelDiff.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
   </data>
-  <data name="FindButton.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom, Left, Right</value>
+  <data name="&gt;&gt;LabelDiff.Name" xml:space="preserve">
+    <value>LabelDiff</value>
   </data>
-  <data name="ValueGold.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 20.25pt</value>
-  </data>
-  <data name="ValueBronze.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom, Left, Right</value>
-  </data>
-  <data name="&gt;&gt;ValueSilver.Type" xml:space="preserve">
+  <data name="&gt;&gt;LabelDiff.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;panel1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;LabelDiff.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;LabelDiff.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="LabelRoute.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="LabelRoute.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 20.25pt</value>
+  </data>
+  <data name="LabelRoute.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="LabelRoute.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1, 48</value>
+  </data>
+  <data name="LabelRoute.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="LabelRoute.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="LabelRoute.Size" type="System.Drawing.Size, System.Drawing">
+    <value>131, 46</value>
+  </data>
+  <data name="LabelRoute.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="LabelRoute.Text" xml:space="preserve">
+    <value>Route</value>
+  </data>
+  <data name="LabelRoute.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;LabelRoute.Name" xml:space="preserve">
+    <value>LabelRoute</value>
+  </data>
+  <data name="&gt;&gt;LabelRoute.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LabelRoute.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;LabelRoute.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="LabelMiss.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="LabelMiss.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 20.25pt</value>
+  </data>
+  <data name="LabelMiss.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="LabelMiss.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1, 95</value>
+  </data>
+  <data name="LabelMiss.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="LabelMiss.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="LabelMiss.Size" type="System.Drawing.Size, System.Drawing">
+    <value>131, 46</value>
+  </data>
+  <data name="LabelMiss.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="LabelMiss.Text" xml:space="preserve">
+    <value>Miss</value>
+  </data>
+  <data name="LabelMiss.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;LabelMiss.Name" xml:space="preserve">
+    <value>LabelMiss</value>
+  </data>
+  <data name="&gt;&gt;LabelMiss.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LabelMiss.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;LabelMiss.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="LabelBomb.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="LabelBomb.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 20.25pt</value>
+  </data>
+  <data name="LabelBomb.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="LabelBomb.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1, 142</value>
+  </data>
+  <data name="LabelBomb.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="LabelBomb.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="LabelBomb.Size" type="System.Drawing.Size, System.Drawing">
+    <value>131, 46</value>
+  </data>
+  <data name="LabelBomb.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="LabelBomb.Text" xml:space="preserve">
+    <value>Bomb</value>
+  </data>
+  <data name="LabelBomb.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;LabelBomb.Name" xml:space="preserve">
+    <value>LabelBomb</value>
+  </data>
+  <data name="&gt;&gt;LabelBomb.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LabelBomb.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;LabelBomb.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="LabelGold.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="LabelGold.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 20.25pt</value>
+  </data>
+  <data name="LabelGold.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="LabelGold.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1, 189</value>
+  </data>
+  <data name="LabelGold.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="LabelGold.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="LabelGold.Size" type="System.Drawing.Size, System.Drawing">
+    <value>131, 46</value>
+  </data>
+  <data name="LabelGold.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="LabelGold.Text" xml:space="preserve">
+    <value>Gold</value>
+  </data>
+  <data name="LabelGold.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;LabelGold.Name" xml:space="preserve">
+    <value>LabelGold</value>
+  </data>
+  <data name="&gt;&gt;LabelGold.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LabelGold.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;LabelGold.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="LabelSilver.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="LabelSilver.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 20.25pt</value>
+  </data>
+  <data name="LabelSilver.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="LabelSilver.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1, 236</value>
+  </data>
+  <data name="LabelSilver.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="LabelSilver.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="LabelSilver.Size" type="System.Drawing.Size, System.Drawing">
+    <value>131, 46</value>
+  </data>
+  <data name="LabelSilver.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="LabelSilver.Text" xml:space="preserve">
+    <value>Silver</value>
+  </data>
+  <data name="LabelSilver.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;LabelSilver.Name" xml:space="preserve">
+    <value>LabelSilver</value>
+  </data>
+  <data name="&gt;&gt;LabelSilver.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LabelSilver.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;LabelSilver.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="LabelBronze.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="LabelBronze.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 20.25pt</value>
+  </data>
+  <data name="LabelBronze.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="LabelBronze.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1, 283</value>
+  </data>
+  <data name="LabelBronze.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="LabelBronze.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="LabelBronze.Size" type="System.Drawing.Size, System.Drawing">
+    <value>131, 46</value>
+  </data>
+  <data name="LabelBronze.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="LabelBronze.Text" xml:space="preserve">
+    <value>Bronze</value>
+  </data>
+  <data name="LabelBronze.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;LabelBronze.Name" xml:space="preserve">
+    <value>LabelBronze</value>
+  </data>
+  <data name="&gt;&gt;LabelBronze.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LabelBronze.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;LabelBronze.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="LabelISCORE.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="LabelISCORE.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 20.25pt</value>
+  </data>
+  <data name="LabelISCORE.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="LabelISCORE.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1, 330</value>
+  </data>
+  <data name="LabelISCORE.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="LabelISCORE.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="LabelISCORE.Size" type="System.Drawing.Size, System.Drawing">
+    <value>131, 50</value>
+  </data>
+  <data name="LabelISCORE.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="LabelISCORE.Text" xml:space="preserve">
+    <value>ISCORE</value>
+  </data>
+  <data name="LabelISCORE.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="LabelISCORE.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;LabelISCORE.Name" xml:space="preserve">
+    <value>LabelISCORE</value>
+  </data>
+  <data name="&gt;&gt;LabelISCORE.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LabelISCORE.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;LabelISCORE.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="ValueDiff.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="ValueDiff.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 20.25pt</value>
+  </data>
+  <data name="ValueDiff.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ValueDiff.Location" type="System.Drawing.Point, System.Drawing">
+    <value>133, 1</value>
+  </data>
+  <data name="ValueDiff.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="ValueDiff.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="ValueDiff.Size" type="System.Drawing.Size, System.Drawing">
+    <value>132, 46</value>
+  </data>
+  <data name="ValueDiff.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
   </data>
   <data name="ValueDiff.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
   </data>
-  <data name="&gt;&gt;LabelFound.Name" xml:space="preserve">
-    <value>LabelFound</value>
+  <data name="&gt;&gt;ValueDiff.Name" xml:space="preserve">
+    <value>ValueDiff</value>
+  </data>
+  <data name="&gt;&gt;ValueDiff.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ValueDiff.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;ValueDiff.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="ValueRoute.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="ValueRoute.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 20.25pt</value>
+  </data>
+  <data name="ValueRoute.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ValueRoute.Location" type="System.Drawing.Point, System.Drawing">
+    <value>133, 48</value>
+  </data>
+  <data name="ValueRoute.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="ValueRoute.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="ValueRoute.Size" type="System.Drawing.Size, System.Drawing">
+    <value>132, 46</value>
+  </data>
+  <data name="ValueRoute.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="ValueRoute.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;ValueRoute.Name" xml:space="preserve">
+    <value>ValueRoute</value>
+  </data>
+  <data name="&gt;&gt;ValueRoute.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ValueRoute.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;ValueRoute.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="ValueMiss.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="ValueMiss.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 20.25pt</value>
+  </data>
+  <data name="ValueMiss.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ValueMiss.Location" type="System.Drawing.Point, System.Drawing">
+    <value>133, 95</value>
+  </data>
+  <data name="ValueMiss.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="ValueMiss.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="ValueMiss.Size" type="System.Drawing.Size, System.Drawing">
+    <value>132, 46</value>
+  </data>
+  <data name="ValueMiss.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="ValueMiss.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;ValueMiss.Name" xml:space="preserve">
+    <value>ValueMiss</value>
+  </data>
+  <data name="&gt;&gt;ValueMiss.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ValueMiss.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;ValueMiss.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="ValueBomb.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="ValueBomb.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 20.25pt</value>
+  </data>
+  <data name="ValueBomb.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ValueBomb.Location" type="System.Drawing.Point, System.Drawing">
+    <value>133, 142</value>
+  </data>
+  <data name="ValueBomb.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="ValueBomb.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="ValueBomb.Size" type="System.Drawing.Size, System.Drawing">
+    <value>132, 46</value>
+  </data>
+  <data name="ValueBomb.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="ValueBomb.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;ValueBomb.Name" xml:space="preserve">
+    <value>ValueBomb</value>
+  </data>
+  <data name="&gt;&gt;ValueBomb.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ValueBomb.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;ValueBomb.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="ValueGold.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="ValueGold.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 20.25pt</value>
+  </data>
+  <data name="ValueGold.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ValueGold.Location" type="System.Drawing.Point, System.Drawing">
+    <value>133, 189</value>
+  </data>
+  <data name="ValueGold.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="ValueGold.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="ValueGold.Size" type="System.Drawing.Size, System.Drawing">
+    <value>132, 46</value>
+  </data>
+  <data name="ValueGold.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="ValueGold.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;ValueGold.Name" xml:space="preserve">
+    <value>ValueGold</value>
+  </data>
+  <data name="&gt;&gt;ValueGold.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ValueGold.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;ValueGold.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="ValueSilver.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="ValueSilver.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 20.25pt</value>
+  </data>
+  <data name="ValueSilver.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ValueSilver.Location" type="System.Drawing.Point, System.Drawing">
+    <value>133, 236</value>
+  </data>
+  <data name="ValueSilver.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="ValueSilver.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="ValueSilver.Size" type="System.Drawing.Size, System.Drawing">
+    <value>132, 46</value>
+  </data>
+  <data name="ValueSilver.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="ValueSilver.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;ValueSilver.Name" xml:space="preserve">
+    <value>ValueSilver</value>
+  </data>
+  <data name="&gt;&gt;ValueSilver.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ValueSilver.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;ValueSilver.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="ValueBronze.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="ValueBronze.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 20.25pt</value>
+  </data>
+  <data name="ValueBronze.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ValueBronze.Location" type="System.Drawing.Point, System.Drawing">
+    <value>133, 283</value>
+  </data>
+  <data name="ValueBronze.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="ValueBronze.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="ValueBronze.Size" type="System.Drawing.Size, System.Drawing">
+    <value>132, 46</value>
   </data>
   <data name="ValueBronze.TabIndex" type="System.Int32, mscorlib">
     <value>15</value>
   </data>
-  <data name="&gt;&gt;FindButton.ZOrder" xml:space="preserve">
-    <value>1</value>
+  <data name="ValueBronze.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
   </data>
+  <data name="&gt;&gt;ValueBronze.Name" xml:space="preserve">
+    <value>ValueBronze</value>
+  </data>
+  <data name="&gt;&gt;ValueBronze.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ValueBronze.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;ValueBronze.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="ValueISCORE.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="ValueISCORE.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 20.25pt</value>
+  </data>
+  <data name="ValueISCORE.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ValueISCORE.Location" type="System.Drawing.Point, System.Drawing">
+    <value>133, 330</value>
+  </data>
+  <data name="ValueISCORE.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="ValueISCORE.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="ValueISCORE.Size" type="System.Drawing.Size, System.Drawing">
+    <value>132, 50</value>
+  </data>
+  <data name="ValueISCORE.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="ValueISCORE.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="ValueISCORE.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;ValueISCORE.Name" xml:space="preserve">
+    <value>ValueISCORE</value>
+  </data>
+  <data name="&gt;&gt;ValueISCORE.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ValueISCORE.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;ValueISCORE.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="tableLayoutPanel2.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
+  </data>
+  <data name="tableLayoutPanel2.CellBorderStyle" type="System.Windows.Forms.TableLayoutPanelCellBorderStyle, System.Windows.Forms">
+    <value>Single</value>
+  </data>
+  <data name="tableLayoutPanel2.ColumnCount" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="tableLayoutPanel2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="tableLayoutPanel2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="tableLayoutPanel2.RowCount" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="tableLayoutPanel2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>266, 381</value>
+  </data>
+  <data name="tableLayoutPanel2.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel2.Name" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="tableLayoutPanel2.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="ValueISCORE" Row="7" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="LabelSilver" Row="5" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="ValueBronze" Row="6" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="LabelDiff" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="ValueSilver" Row="5" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="ValueDiff" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="LabelISCORE" Row="7" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="LabelRoute" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="LabelBronze" Row="6" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="LabelMiss" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="ValueGold" Row="4" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="ValueRoute" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="ValueBomb" Row="3" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="ValueMiss" Row="2" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="LabelBomb" Row="3" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="LabelGold" Row="4" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,50,Percent,50" /&gt;&lt;Rows Styles="Percent,12.5,Percent,12.5,Percent,12.5,Percent,12.5,Percent,12.5,Percent,12.5,Percent,12.5,Percent,12.5" /&gt;&lt;/TableLayoutSettings&gt;</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
   <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
     <value>6, 13</value>
+  </data>
+  <data name="$this.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>266, 439</value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -412,508 +1096,22 @@
         AAA=
 </value>
   </data>
-  <data name="&gt;&gt;ValueMiss.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
   </data>
-  <data name="LabelBomb.Text" xml:space="preserve">
-    <value>Bomb</value>
+  <data name="$this.Text" xml:space="preserve">
+    <value>IC4128LS</value>
   </data>
-  <data name="&gt;&gt;LabelFound.Parent" xml:space="preserve">
-    <value>$this</value>
+  <data name="&gt;&gt;mainWorker.Name" xml:space="preserve">
+    <value>mainWorker</value>
   </data>
-  <data name="&gt;&gt;ValueBomb.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="ValueDiff.Size" type="System.Drawing.Size, System.Drawing">
-    <value>108, 45</value>
-  </data>
-  <data name="ValueMiss.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 20.25pt</value>
-  </data>
-  <data name="LabelSilver.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 228</value>
-  </data>
-  <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 13</value>
-  </data>
-  <data name="&gt;&gt;ValueSilver.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;ValueRoute.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;LabelMiss.ZOrder" xml:space="preserve">
-    <value>13</value>
-  </data>
-  <data name="LabelDiff.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 20.25pt</value>
-  </data>
-  <data name="ValueRoute.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleRight</value>
-  </data>
-  <data name="LabelMiss.Size" type="System.Drawing.Size, System.Drawing">
-    <value>128, 45</value>
-  </data>
-  <data name="&gt;&gt;LabelBronze.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;LabelGold.Name" xml:space="preserve">
-    <value>LabelGold</value>
-  </data>
-  <data name="FindButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 404</value>
-  </data>
-  <data name="LabelFound.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleCenter</value>
-  </data>
-  <data name="LabelISCORE.Size" type="System.Drawing.Size, System.Drawing">
-    <value>128, 45</value>
-  </data>
-  <data name="ValueBomb.TabIndex" type="System.Int32, mscorlib">
-    <value>12</value>
-  </data>
-  <data name="&gt;&gt;ValueBronze.Name" xml:space="preserve">
-    <value>ValueBronze</value>
-  </data>
-  <data name="LabelMiss.Text" xml:space="preserve">
-    <value>Miss</value>
-  </data>
-  <data name="&gt;&gt;LabelISCORE.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="LabelBronze.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
-  </data>
-  <data name="LabelSilver.TabIndex" type="System.Int32, mscorlib">
-    <value>6</value>
-  </data>
-  <data name="LabelMiss.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="LabelGold.Size" type="System.Drawing.Size, System.Drawing">
-    <value>128, 45</value>
-  </data>
-  <data name="&gt;&gt;panel1.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="LabelBomb.Size" type="System.Drawing.Size, System.Drawing">
-    <value>128, 45</value>
-  </data>
-  <data name="&gt;&gt;LabelDiff.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="LabelNotFound.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 9pt</value>
-  </data>
-  <data name="LabelBronze.Text" xml:space="preserve">
-    <value>Bronze</value>
-  </data>
-  <data name="ValueMiss.Size" type="System.Drawing.Size, System.Drawing">
-    <value>108, 45</value>
-  </data>
-  <data name="LabelISCORE.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="ValueISCORE.TabIndex" type="System.Int32, mscorlib">
-    <value>16</value>
-  </data>
-  <data name="LabelFound.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="ValueISCORE.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 20.25pt</value>
-  </data>
-  <data name="LabelBronze.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="ValueBomb.Location" type="System.Drawing.Point, System.Drawing">
-    <value>131, 138</value>
-  </data>
-  <data name="ValueMiss.Location" type="System.Drawing.Point, System.Drawing">
-    <value>131, 93</value>
-  </data>
-  <data name="ValueGold.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom, Left, Right</value>
+  <data name="&gt;&gt;mainWorker.Type" xml:space="preserve">
+    <value>System.ComponentModel.BackgroundWorker, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>MainWindow</value>
   </data>
-  <data name="&gt;&gt;LabelNotFound.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="ValueRoute.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom, Left, Right</value>
-  </data>
-  <data name="&gt;&gt;LabelNotFound.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="ValueISCORE.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleRight</value>
-  </data>
-  <data name="ValueSilver.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleRight</value>
-  </data>
-  <data name="LabelNotFound.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 383</value>
-  </data>
-  <data name="ValueRoute.Size" type="System.Drawing.Size, System.Drawing">
-    <value>108, 45</value>
-  </data>
-  <data name="&gt;&gt;LabelMiss.Name" xml:space="preserve">
-    <value>LabelMiss</value>
-  </data>
-  <data name="&gt;&gt;ValueMiss.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;LabelFound.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="LabelFound.Text" xml:space="preserve">
-    <value>th128.exe Found</value>
-  </data>
-  <data name="LabelFound.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;panel1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="LabelSilver.Size" type="System.Drawing.Size, System.Drawing">
-    <value>128, 45</value>
-  </data>
-  <data name="LabelNotFound.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="LabelSilver.Text" xml:space="preserve">
-    <value>Silver</value>
-  </data>
-  <data name="&gt;&gt;LabelNotFound.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="ValueGold.Size" type="System.Drawing.Size, System.Drawing">
-    <value>108, 45</value>
-  </data>
-  <data name="ValueDiff.TabIndex" type="System.Int32, mscorlib">
-    <value>9</value>
-  </data>
-  <data name="&gt;&gt;ValueBomb.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="LabelMiss.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 20.25pt</value>
-  </data>
-  <data name="&gt;&gt;ValueRoute.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="&gt;&gt;LabelDiff.Name" xml:space="preserve">
-    <value>LabelDiff</value>
-  </data>
-  <data name="ValueRoute.Location" type="System.Drawing.Point, System.Drawing">
-    <value>131, 48</value>
-  </data>
-  <data name="&gt;&gt;LabelDiff.ZOrder" xml:space="preserve">
-    <value>15</value>
-  </data>
-  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
-    <value>CenterScreen</value>
-  </data>
-  <data name="LabelNotFound.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom, Left, Right</value>
-  </data>
-  <data name="&gt;&gt;ValueGold.Name" xml:space="preserve">
-    <value>ValueGold</value>
-  </data>
-  <data name="LabelSilver.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 20.25pt</value>
-  </data>
-  <data name="&gt;&gt;ValueGold.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>242, 366</value>
-  </data>
-  <data name="&gt;&gt;LabelGold.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="LabelBomb.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="LabelRoute.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 48</value>
-  </data>
-  <data name="&gt;&gt;ValueMiss.Name" xml:space="preserve">
-    <value>ValueMiss</value>
-  </data>
-  <data name="&gt;&gt;ValueGold.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="LabelMiss.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;FindButton.Name" xml:space="preserve">
-    <value>FindButton</value>
-  </data>
-  <data name="LabelFound.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 383</value>
-  </data>
-  <data name="&gt;&gt;LabelRoute.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="LabelBomb.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 138</value>
-  </data>
-  <data name="&gt;&gt;ValueBronze.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="LabelNotFound.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="ValueBronze.Size" type="System.Drawing.Size, System.Drawing">
-    <value>108, 45</value>
-  </data>
-  <data name="LabelISCORE.TabIndex" type="System.Int32, mscorlib">
-    <value>8</value>
-  </data>
-  <data name="&gt;&gt;LabelFound.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="LabelSilver.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="&gt;&gt;LabelISCORE.ZOrder" xml:space="preserve">
-    <value>8</value>
-  </data>
-  <data name="LabelGold.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="&gt;&gt;LabelDiff.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;LabelRoute.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="ValueBomb.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 20.25pt</value>
-  </data>
-  <data name="FindButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>242, 23</value>
-  </data>
-  <data name="&gt;&gt;ValueMiss.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="LabelRoute.Size" type="System.Drawing.Size, System.Drawing">
-    <value>128, 45</value>
-  </data>
-  <data name="&gt;&gt;LabelGold.ZOrder" xml:space="preserve">
-    <value>11</value>
-  </data>
-  <data name="ValueSilver.Location" type="System.Drawing.Point, System.Drawing">
-    <value>131, 228</value>
-  </data>
-  <data name="panel1.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="LabelISCORE.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 318</value>
-  </data>
-  <data name="LabelDiff.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="ValueISCORE.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom, Left, Right</value>
-  </data>
-  <data name="&gt;&gt;ValueBomb.Name" xml:space="preserve">
-    <value>ValueBomb</value>
-  </data>
   <data name="&gt;&gt;$this.Type" xml:space="preserve">
     <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;LabelBomb.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="LabelRoute.Text" xml:space="preserve">
-    <value>Route</value>
-  </data>
-  <data name="LabelGold.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 183</value>
-  </data>
-  <data name="&gt;&gt;ValueRoute.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="ValueDiff.Location" type="System.Drawing.Point, System.Drawing">
-    <value>131, 3</value>
-  </data>
-  <data name="&gt;&gt;ValueBronze.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="LabelMiss.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 93</value>
-  </data>
-  <data name="ValueMiss.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleRight</value>
-  </data>
-  <data name="ValueRoute.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 20.25pt</value>
-  </data>
-  <data name="LabelFound.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom, Left, Right</value>
-  </data>
-  <data name="LabelISCORE.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 20.25pt</value>
-  </data>
-  <data name="ValueSilver.Size" type="System.Drawing.Size, System.Drawing">
-    <value>108, 45</value>
-  </data>
-  <data name="LabelDiff.Size" type="System.Drawing.Size, System.Drawing">
-    <value>128, 45</value>
-  </data>
-  <data name="&gt;&gt;ValueDiff.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="LabelRoute.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="ValueDiff.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom, Left, Right</value>
-  </data>
-  <data name="LabelBomb.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="$this.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="ValueMiss.TabIndex" type="System.Int32, mscorlib">
-    <value>11</value>
-  </data>
-  <data name="&gt;&gt;LabelRoute.ZOrder" xml:space="preserve">
-    <value>14</value>
-  </data>
-  <data name="ValueDiff.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 20.25pt</value>
-  </data>
-  <data name="&gt;&gt;LabelBomb.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="LabelNotFound.Size" type="System.Drawing.Size, System.Drawing">
-    <value>242, 18</value>
-  </data>
-  <data name="&gt;&gt;ValueGold.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;ValueSilver.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;LabelNotFound.Name" xml:space="preserve">
-    <value>LabelNotFound</value>
-  </data>
-  <data name="ValueBomb.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom, Left, Right</value>
-  </data>
-  <data name="&gt;&gt;ValueBomb.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;LabelSilver.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;LabelBronze.Name" xml:space="preserve">
-    <value>LabelBronze</value>
-  </data>
-  <data name="ValueGold.Location" type="System.Drawing.Point, System.Drawing">
-    <value>131, 183</value>
-  </data>
-  <data name="&gt;&gt;panel1.Name" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="ValueISCORE.Location" type="System.Drawing.Point, System.Drawing">
-    <value>131, 318</value>
-  </data>
-  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>266, 439</value>
-  </data>
-  <data name="&gt;&gt;LabelBronze.ZOrder" xml:space="preserve">
-    <value>9</value>
-  </data>
-  <data name="LabelGold.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <data name="LabelBronze.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 273</value>
-  </data>
-  <data name="LabelFound.Size" type="System.Drawing.Size, System.Drawing">
-    <value>242, 18</value>
-  </data>
-  <data name="&gt;&gt;LabelSilver.ZOrder" xml:space="preserve">
-    <value>10</value>
-  </data>
-  <data name="&gt;&gt;LabelRoute.Name" xml:space="preserve">
-    <value>LabelRoute</value>
-  </data>
-  <data name="LabelISCORE.Text" xml:space="preserve">
-    <value>ISCORE</value>
-  </data>
-  <data name="LabelBronze.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 20.25pt</value>
-  </data>
-  <data name="&gt;&gt;ValueISCORE.Name" xml:space="preserve">
-    <value>ValueISCORE</value>
-  </data>
-  <data name="&gt;&gt;LabelISCORE.Name" xml:space="preserve">
-    <value>LabelISCORE</value>
-  </data>
-  <data name="&gt;&gt;LabelMiss.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;LabelGold.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;ValueDiff.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="&gt;&gt;FindButton.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="LabelRoute.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;LabelSilver.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;LabelBronze.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;LabelBomb.ZOrder" xml:space="preserve">
-    <value>12</value>
-  </data>
-  <data name="ValueMiss.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom, Left, Right</value>
-  </data>
-  <data name="&gt;&gt;ValueISCORE.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;ValueISCORE.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="LabelDiff.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 3</value>
-  </data>
-  <data name="&gt;&gt;ValueDiff.Name" xml:space="preserve">
-    <value>ValueDiff</value>
-  </data>
-  <data name="LabelGold.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 20.25pt</value>
-  </data>
-  <data name="&gt;&gt;LabelMiss.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;LabelBomb.Name" xml:space="preserve">
-    <value>LabelBomb</value>
-  </data>
-  <data name="ValueISCORE.Size" type="System.Drawing.Size, System.Drawing">
-    <value>108, 45</value>
-  </data>
-  <data name="LabelBronze.Size" type="System.Drawing.Size, System.Drawing">
-    <value>128, 45</value>
-  </data>
-  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
 </root>
