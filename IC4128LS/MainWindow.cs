@@ -98,7 +98,7 @@ namespace IC4128LS
             {
                 // do nothing
             }
-            else if (lang == "jp")
+            else if (lang == "ja")
             {
                 Thread.CurrentThread.CurrentUICulture = new System.Globalization.CultureInfo("ja");
             }

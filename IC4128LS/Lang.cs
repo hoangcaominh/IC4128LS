@@ -20,7 +20,7 @@ namespace IC4128LS
 
         private void BtnJp_Click(object sender, EventArgs e)
         {
-            File.WriteAllText("lang.txt", "jp");
+            File.WriteAllText("lang.txt", "ja");
             Close();
         }
 
