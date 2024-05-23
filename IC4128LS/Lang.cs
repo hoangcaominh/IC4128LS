@@ -15,19 +15,19 @@ namespace IC4128LS
         private void BtnEn_Click(object sender, EventArgs e)
         {
             File.WriteAllText("lang.txt", "en");
-            this.Close();
+            Close();
         }
 
         private void BtnJp_Click(object sender, EventArgs e)
         {
             File.WriteAllText("lang.txt", "jp");
-            this.Close();
+            Close();
         }
 
         private void BtnZh_Click(object sender, EventArgs e)
         {
             File.WriteAllText("lang.txt", "zh");
-            this.Close();
+            Close();
         }
     }
 }
